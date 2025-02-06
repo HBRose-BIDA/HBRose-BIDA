@@ -1,4 +1,4 @@
-github_profile_content = """# GitHub Profile for [HB Rose]
+## HB Rose
 
 ## 💡 Welcome to My GitHub Profile!
 
