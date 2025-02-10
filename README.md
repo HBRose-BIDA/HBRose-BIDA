@@ -1,6 +1,6 @@
 ## HB Rose
 
-# **Under Construction**
+# **🚧 UNDER CONSTRUCTION 🚧**
 
 ## 💡 Welcome to My GitHub Profile!
 
