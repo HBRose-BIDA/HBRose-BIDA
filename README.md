@@ -43,6 +43,8 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 
 - Word test https://view.officeapps.live.com/op/view.aspx?src=https://blobrepo123.blob.core.windows.net/projectfiles/oil.docx
 - PowerPoint Test https://view.officeapps.live.com/op/view.aspx?src=https://blobrepo123.blob.core.windows.net/projectfiles/The%20Business%20Analysis%20Core%20Concept%20Model.pptx
+- [View Business Analysis Core Concept Model](https://view.officeapps.live.com/op/view.aspx?src=https://blobrepo123.blob.core.windows.net/projectfiles/The%20Business%20Analysis%20Core%20Concept%20Model.pptx)
+
 
 
 ### 📫 Let's Connect!
