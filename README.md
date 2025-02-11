@@ -42,11 +42,10 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 - ETL (Extract, Transform, Load) Processes
 
 - Word test https://view.officeapps.live.com/op/view.aspx?src=https://blobrepo123.blob.core.windows.net/projectfiles/oil.docx
-- PowerPoint Test # Master - Final 7 - HBnotes
 
-[View or Download PowerPoint](https://blobrepo123.blob.core.windows.net/projectfiles/Master%20-Final%207%20-%20HBnotes.pptx)
+# View Presentation: Master - Final 7 - HBnotes
 
-- [View Business Analysis Core Concept Model](https://view.officeapps.live.com/op/view.aspx?src=https://blobrepo123.blob.core.windows.net/projectfiles/The%20Business%20Analysis%20Core%20Concept%20Model.pptx)
+[Click here to view the PowerPoint online](https://view.officeapps.live.com/op/embed.aspx?src=https://blobrepo123.blob.core.windows.net/projectfiles/Master%20-Final%207%20-%20HBnotes.pptx)
 
 ## Tableau Public Dashboard
 
