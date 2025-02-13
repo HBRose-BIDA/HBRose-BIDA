@@ -41,11 +41,11 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 - Data Warehousing
 - ETL (Extract, Transform, Load) Processes
 
-- Word test https://view.officeapps.live.com/op/view.aspx?src=https://blobrepo123.blob.core.windows.net/projectfiles/oil.docx
+Switching to Google
 
 # View Presentation: Master - Final 6 - Stripped
 
-[Click here to view the PowerPoint online](https://view.officeapps.live.com/op/embed.aspx?src=https://blobrepo123.blob.core.windows.net/projectfiles/Master%20-Final%206%20-%20Stripped.pptx)
+
 
 ## Tableau Public Dashboard
 
