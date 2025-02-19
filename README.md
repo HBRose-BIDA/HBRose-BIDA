@@ -55,6 +55,9 @@ Switching to Google
 ## Google Test
  https://drive.google.com/file/d/1Uf6jIu5KXbbCP6cdcYqXhcyhAii3p-tz/view?usp=sharing
 
+## Link to GitHub - test
+https://github.com/HBRose-BIDA/BIA-620-Business-Analytics
+
 
 
 ### 📫 Let's Connect!
