@@ -1,4 +1,5 @@
 ## HB Rose
+LinkedIn Profile
 
 # **🚧 UNDER CONSTRUCTION 🚧**
 
