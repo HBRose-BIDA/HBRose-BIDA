@@ -1,5 +1,5 @@
 ## HB Rose
-LinkedIn Profile
+[LinkedIn Profile](https://www.linkedin.com/in/hjalmaar-rose-23a20851/)
 
 # **🚧 UNDER CONSTRUCTION 🚧**
 
