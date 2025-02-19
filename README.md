@@ -57,8 +57,7 @@ Switching to Google
 
 ## Link to GitHub - test
 https://github.com/HBRose-BIDA/BIA-620-Business-Analytics
-
-
+https://github.com/HBRose-BIDA/BIA-620-Business-Analytics/blob/main/Maturity-Model-Mode.pdf
 
 ### 📫 Let's Connect!
 
