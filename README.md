@@ -51,7 +51,7 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 
 
 ## Link to GitHub - test
- https://HBRose-BIDA.github.io/Master-Class-Projects/ZZ_GitHub_pages.htm
+ https://HBRose-BIDA.github.io/Master-Class-Projects/ZZ_GitHub_pages.html
 
 ### 📫 Let's Connect!
 
