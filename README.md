@@ -52,8 +52,6 @@ Switching to Google
 
 [🔗 View My Tableau Visualization in Fullscreen](https://public.tableau.com/views/Concessions11-13/Story1?:embed=y&:showVizHome=no)
 
-## Google Test
- https://drive.google.com/file/d/1Uf6jIu5KXbbCP6cdcYqXhcyhAii3p-tz/view?usp=sharing
 
 ## Link to GitHub - test
 https://github.com/HBRose-BIDA/Master-Class-Projects/blob/main/W2.A1%20Data%20Flow%20Diagram%20Assignment.pdf
