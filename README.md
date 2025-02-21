@@ -42,9 +42,6 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 - Data Warehousing
 - ETL (Extract, Transform, Load) Processes
 
-Switching to Google
-
-# View Presentation: Master - Final 6 - Stripped
 
 
 
@@ -54,7 +51,7 @@ Switching to Google
 
 
 ## Link to GitHub - test
-https://github.com/HBRose-BIDA/Master-Class-Projects/blob/main/W2.A1%20Data%20Flow%20Diagram%20Assignment.pdf
+ https://HBRose-BIDA.github.io/Master-Class-Projects/ZZ_GitHub_pages.htm
 
 ### 📫 Let's Connect!
 
