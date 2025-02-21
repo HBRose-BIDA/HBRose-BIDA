@@ -56,8 +56,7 @@ Switching to Google
  https://drive.google.com/file/d/1Uf6jIu5KXbbCP6cdcYqXhcyhAii3p-tz/view?usp=sharing
 
 ## Link to GitHub - test
-https://github.com/HBRose-BIDA/BIA-620-Business-Analytics
-https://github.com/HBRose-BIDA/BIA-620-Business-Analytics/blob/main/Maturity-Model-Mode.pdf
+https://github.com/HBRose-BIDA/Master-Class-Projects/blob/main/W2.A1%20Data%20Flow%20Diagram%20Assignment.pdf
 
 ### 📫 Let's Connect!
 
