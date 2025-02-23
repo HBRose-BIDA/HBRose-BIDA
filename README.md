@@ -51,7 +51,7 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 
 
 ## Link to Google Drive - test 
-[BIA 620 Business Analytics](https://github.com/HBRose-BIDA/BIA-620/blob/main/BIA-620.html)
+[BIA 620 Business Analytics](https://hbrose-bida.github.io/BIA-620/BIA-620.html)
 
 ### 📫 Let's Connect!
 
