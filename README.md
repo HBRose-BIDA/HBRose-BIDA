@@ -58,11 +58,6 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 [BIA-640-Data-Visualization](https://hbrose-bida.github.io/BIA-640-Data-Visualization/BIA-640.html)
 
 
-BIA-640-Data-Visualization/BIA-640.html
-
-BIA-640.html
-
-
 ### 📫 Let's Connect!
 
 - 💼 **[LinkedIn Profile](https://www.linkedin.com/in/hjalmaar-rose-ms-23a20851)**
