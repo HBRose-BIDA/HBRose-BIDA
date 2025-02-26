@@ -57,7 +57,7 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 
 [BIA-640-Data-Visualization](https://hbrose-bida.github.io/BIA-640-Data-Visualization/BIA-640.html)
 
-[BIA-645-Communications-and-Content-Strategies](BIA-645-Communications-and-Content-Strategies/BIA-645.html)
+[BIA-645-Communications-and-Content-Strategies](https://hbrose-bida.github.io/BIA-645-Communications-and-Content-Strategies/BIA-645.html)
 
 
 [SQL](https://hbrose-bida.github.io/SQL/SQL.html)
