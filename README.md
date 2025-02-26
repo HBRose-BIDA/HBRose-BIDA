@@ -59,6 +59,8 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 
 [SQL](https://hbrose-bida.github.io/SQL/SQL.html)
 
+[Python](https://hbrose-bida.github.io/Python/Python.html)
+
 
 ### 📫 Let's Connect!
 
