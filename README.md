@@ -61,6 +61,8 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 
 [BIA-650-Data-Mining-for-Decision-Making](https://hbrose-bida.github.io/BIA-650-Data-Mining-for-Decision-Making/BIA-650.html)
 
+[BBIA-665-Decision-Support-Systems](https://hbrose-bida.github.io/BIA-665-Decision-Support-Systems/BIA-665.html)
+
 
 [SQL](https://hbrose-bida.github.io/SQL/SQL.html)
 
