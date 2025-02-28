@@ -65,6 +65,8 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 
 [BIA-690-Capstone-Project](https://hbrose-bida.github.io/BIA-690-Capstone-Project/BIA-690.html)
 
+[DIGA-605-Fundamentals-of-Geographic-Information-Systems](https://hbrose-bida.github.io/DIGA-605-Fundamentals-of-Geographic-Information-Systems/DIGA-605.html)
+
 
 [SQL](https://hbrose-bida.github.io/SQL/SQL.html)
 
