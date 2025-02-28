@@ -63,7 +63,7 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 
 [BBIA-665-Decision-Support-Systems](https://hbrose-bida.github.io/BIA-665-Decision-Support-Systems/BIA-665.html)
 
-[BIA-690-Capstone-Project](https://hbrose-bida.github.io/BIA-690-Capstone-Project/BIA-690.htm)
+[BIA-690-Capstone-Project](https://hbrose-bida.github.io/BIA-690-Capstone-Project/BIA-690.html)
 
 
 [SQL](https://hbrose-bida.github.io/SQL/SQL.html)
