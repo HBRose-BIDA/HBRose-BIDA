@@ -69,6 +69,8 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 
 [MBA-604-Managerial-Economics](https://hbrose-bida.github.io/MBA-604-Managerial-Economics/MBA-604.html)
 
+[MBA-618-Business-Statistics](https://hbrose-bida.github.io/MBA-618-Business-Statistics/MBA-618.html)
+
 [SQL](https://hbrose-bida.github.io/SQL/SQL.html)
 
 [Python](https://hbrose-bida.github.io/Python/Python.html)
