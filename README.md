@@ -71,6 +71,8 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 
 [MBA-618-Business-Statistics](https://hbrose-bida.github.io/MBA-618-Business-Statistics/MBA-618.html)
 
+[MBA-633-Ethics-in-Data-Analytics](https://hbrose-bida.github.io/MBA-633-Ethics-in-Data-Analytics/MBA-633.html)
+
 [SQL](https://hbrose-bida.github.io/SQL/SQL.html)
 
 [Python](https://hbrose-bida.github.io/Python/Python.html)
