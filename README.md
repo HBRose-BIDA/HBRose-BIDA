@@ -1,9 +1,8 @@
 ## HB Rose
 [LinkedIn Profile](https://www.linkedin.com/in/hjalmaar-rose-ms-23a20851)
 
-# **🚧 UNDER CONSTRUCTION 🚧**
-
 ## 💡 Welcome to My GitHub Profile!
+There is still clean up work to do. The HTML is ugly. 
 
 ### 👋 About Me
 
