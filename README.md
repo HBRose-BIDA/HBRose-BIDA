@@ -61,6 +61,8 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 
 [BIA-650-Data-Mining-for-Decision-Making](https://hbrose-bida.github.io/BIA-650-Data-Mining-for-Decision-Making/BIA-650.html)
 
+[BIA-662-Programming-for-Data-Science-Python](https://hbrose-bida.github.io/BIA-662-Programming-for-Data-Science-Python/BIA-662.html)
+
 [BBIA-665-Decision-Support-Systems](https://hbrose-bida.github.io/BIA-665-Decision-Support-Systems/BIA-665.html)
 
 [BIA-690-Capstone-Project](https://hbrose-bida.github.io/BIA-690-Capstone-Project/BIA-690.html)
@@ -73,9 +75,6 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 
 [MBA-633-Ethics-in-Data-Analytics](https://hbrose-bida.github.io/MBA-633-Ethics-in-Data-Analytics/MBA-633.html)
 
-[SQL](https://hbrose-bida.github.io/SQL/SQL.html)
-
-[Python](https://hbrose-bida.github.io/Python/Python.html)
 
 
 ### 📫 Let's Connect!
