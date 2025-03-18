@@ -2,7 +2,7 @@
 [LinkedIn Profile](https://www.linkedin.com/in/hjalmaar-rose-ms-23a20851)
 
 ## 💡 Welcome to My GitHub Profile!
-There is still clean up work to do. The HTML is ugly. 
+There is still clean up work to do. The HTML is ugly. Tableau and Power BI links will be created. 
 
 ### 👋 About Me
 
@@ -10,6 +10,7 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 
 ### 🔍 Skills & Tools
 
+- **There are examples of my skills in the Project Cross-Reference Section
 - **Programming:** Python (pandas, json, shutil, os, datetime), SQL (T-SQL, PL/SQL), VBA, BAT Scripting
 - **Data Visualization:** Power BI, Tableau, Excel (Advanced)
 - **Automation & ETL:** Autosys, ServiceNow, IBM Mainframe (TSO/ISPF, SDSF, SPUFI)
@@ -28,7 +29,7 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 - **M.S. in Business Intelligence & Data Analytics** – Saint Mary's University
 - **B.A. in Marketing & Management** – Saint Mary's University
 
-### 📊 Projects Cross Reference
+### 📊 Projects Cross-Reference
 
 - [Proficiency in SQL](https://hbrose-bida.github.io/Python/SQL.html)
 - [Programming Skills](https://hbrose-bida.github.io/Python/Programming.html)
