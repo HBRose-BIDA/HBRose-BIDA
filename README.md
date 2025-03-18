@@ -10,7 +10,7 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 
 ### 🔍 Skills & Tools
 
-- **There are examples of my skills in the Project Cross-Reference Section.
+- There are examples of my skills in the Project Cross-Reference Section.
 - **Programming:** Python (pandas, json, shutil, os, datetime), SQL (T-SQL, PL/SQL), VBA, BAT Scripting
 - **Data Visualization:** Power BI, Tableau, Excel (Advanced)
 - **Automation & ETL:** Autosys, ServiceNow, IBM Mainframe (TSO/ISPF, SDSF, SPUFI)
