@@ -31,17 +31,17 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 
 ### 📊 Projects Cross Reference
 
-- Proficiency in SQL
 - [Proficiency in SQL](https://hbrose-bida.github.io/Python/SQL.html)
-- Programming Skills
-- Data Modeling Techniques
-- Statistical Analysis
-- Machine Learning
-- Big Data Technologies
-- Data Visualization
-- Cloud Computing
-- Data Warehousing
-- ETL (Extract, Transform, Load) Processes
+- [Programming Skills](https://hbrose-bida.github.io/Python/Programming.html)
+- [Data Modeling Techniques](https://hbrose-bida.github.io/Python/Data_Modeling.html)
+- [Statistical Analysis](https://hbrose-bida.github.io/Python/Statistical_Analysis.html)
+- [Machine Learning](https://hbrose-bida.github.io/Python/Machine_Learning.html)
+- [Big Data Technologies](https://hbrose-bida.github.io/Python/Big_Data.html)
+- [Data Visualization](https://hbrose-bida.github.io/Python/Visualization.html)
+- Cloud Computing - I have done some cloud computing. Azure, Google Drive, and some work things are in the cloud.
+- [Data Warehousing](https://hbrose-bida.github.io/Python/Data_Warehousing.html)
+- [ETL (Extract, Transform, Load) Processes](https://hbrose-bida.github.io/Python/ETL.html)
+- [SAS](https://hbrose-bida.github.io/Python/SAS.html)
 
 
 
