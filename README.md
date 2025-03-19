@@ -10,17 +10,7 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 
 ### 🔍 Skills & Tools
 
-[Summary of Tools](https://github.com/HBRose-BIDA/Summary-of-Tools)
-
-https://github.com/HBRose-BIDA/Summary-of-Tools
-
-- There are examples of my skills in the Project Cross-Reference Section.
-- **Programming:** Python (pandas, json, shutil, os, datetime), SQL (T-SQL, PL/SQL), VBA, BAT Scripting
-- **Data Visualization:** Power BI, Tableau, Excel (Advanced)
-- **Automation & ETL:** Autosys, ServiceNow, IBM Mainframe (TSO/ISPF, SDSF, SPUFI)
-- **Project Management:** Agile, Change Management, Process Optimization
-- **Cloud Technologies:** Azure (Data Lake, SSRS), API Development
-- **Security & Compliance:** GSA Clearance (Valid until 2029), PCI/PII Data Protection
+###[Summary of Tools](https://github.com/HBRose-BIDA/Summary-of-Tools)
 
 ### 🚀 Work Experience Summary
 
