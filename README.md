@@ -8,8 +8,6 @@ There is still clean up work to do. The HTML is ugly. Tableau and Power BI links
 
 I am a **Business Intelligence & Data Analytics Professional** with a strong background in **Python, SQL, Power BI, Tableau, and Data Visualization**. With experience spanning **application development, process automation, data analytics, and project management**, I bring a data-driven approach to solving business challenges.
 
-### 🔍 Skills & Tools
-
 ### [Summary of Tools](https://github.com/HBRose-BIDA/Summary-of-Tools)
 
 ### 🚀 Work Experience Summary
