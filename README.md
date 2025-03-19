@@ -10,7 +10,8 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 
 ### 🔍 Skills & Tools
 
-[Summary of Tools](https://github.com/HBRose-BIDA/Python/blob/main/Summary%20of%20Tools.md)
+[Summary of Tools](https://github.com/HBRose-BIDA/Summary-of-Tools#)
+https://github.com/HBRose-BIDA/Summary-of-Tools#
 
 - There are examples of my skills in the Project Cross-Reference Section.
 - **Programming:** Python (pandas, json, shutil, os, datetime), SQL (T-SQL, PL/SQL), VBA, BAT Scripting
