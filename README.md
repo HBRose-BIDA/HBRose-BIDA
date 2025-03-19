@@ -10,6 +10,8 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 
 ### 🔧 [Summary of Tools](https://github.com/HBRose-BIDA/Summary-of-Tools)
 
+My toolkit combines programming, analytics, BI, and project management for data-driven decision-making, automation, and visualization, with security and forecasting for strategic planning.
+
 ### 🚀 Work Experience Summary
 
 - **Banking & Financial Services (2015 - Present):** Progressed from application support to leadership roles, leading process automation, API onboarding, SQL-based reporting, and cloud migration. Worked in Freight Payments, Data Exchange, and Corporate Credit Cards (U.S. and European).
