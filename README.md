@@ -45,7 +45,8 @@ My toolkit combines programming, analytics, BI, and project management for data-
 [🔗 View My Tableau Visualization in Fullscreen](https://public.tableau.com/views/Concessions11-13/Story1?:embed=y&:showVizHome=no)
 
 
-## Link to Google Drive - test 
+## List of classes I completed for my master's in Business Inteligence and Data Analytics.
+
 [BIA 620 Business Analytics](https://hbrose-bida.github.io/BIA-620-Analytics/BIA-620.html)
 
 [BIA 630 Modeling](https://hbrose-bida.github.io/BIA-630-Modeling/BIA_630.html)
