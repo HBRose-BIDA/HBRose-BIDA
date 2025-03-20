@@ -47,6 +47,7 @@ My toolkit combines programming, analytics, BI, and project management for data-
 
 
 ## List of classes I completed for my master's in Business Inteligence and Data Analytics.
+- [BIDA Outcomes](https://hbrose-bida.github.io/Python/MS_BIDA.html)
 
 [BIA 620 Business Analytics](https://hbrose-bida.github.io/BIA-620-Analytics/BIA-620.html)
 
