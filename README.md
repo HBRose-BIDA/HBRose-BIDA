@@ -25,7 +25,7 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 - **M.S. in Business Intelligence & Data Analytics** – Saint Mary's University of Minnesota **(GPA 3.75)**
 
 <details>
-<summary>📚 List of classes I completed for my master's (Click to expand)</summary>
+<summary>📚 List of classes I completed for my master's **(Click to expand)**</summary>
 
 - [BIA 620 Business Analytics](https://hbrose-bida.github.io/Classes/BIA_620.html)
 - [BIA 630 Modeling](https://hbrose-bida.github.io/Classes/BIA_630.html)
@@ -55,7 +55,7 @@ My toolkit combines programming, analytics, BI, and project management for data-
 ---
 
 <details>
-<summary><span style="color: blue;"><strong>📊 Projects Cross-Reference (Click to expand)</strong></span></summary>
+<summary><span style="color: blue;"><strong>📊 Projects Cross-Reference **(Click to expand)**</strong></span></summary>
   
 - [Proficiency in SQL](https://hbrose-bida.github.io/Python/SQL.html)
 - [Programming Skills](https://hbrose-bida.github.io/Python/Programming.html)
