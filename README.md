@@ -10,15 +10,7 @@ There is still clean up work to do. The HTML is ugly. Tableau and Power BI links
 
 I am a **Business Intelligence & Data Analytics Professional** with a strong background in **Python, SQL, Power BI, Tableau, and Data Visualization**. With experience spanning **application development, process automation, data analytics, and project management**, I bring a data-driven approach to solving business challenges.
 
----
 
-### 🔧🔧 Tools 🔧🔧
-
-My toolkit combines programming, analytics, BI, and project management for data-driven decision-making, automation, and visualization, with security and forecasting for strategic planning.
-
-[List of tools I have experiance with.](https://hbrose-bida.github.io/Python/Summary_of_Tools.html)
-
----
 
 ### 🚀 Work Experience Summary
 
@@ -52,6 +44,14 @@ My toolkit combines programming, analytics, BI, and project management for data-
 </details>
 
 - **B.A. in Marketing & Management** – Saint Mary's University of Minnesota
+
+---
+
+### 🔧🔧 Tools 🔧🔧
+
+My toolkit combines programming, analytics, BI, and project management for data-driven decision-making, automation, and visualization, with security and forecasting for strategic planning.
+
+[List of tools I have experiance with.](https://hbrose-bida.github.io/Python/Summary_of_Tools.html)
 
 ---
 
