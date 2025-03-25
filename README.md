@@ -19,7 +19,7 @@ My toolkit combines programming, analytics, BI, and project management for data-
 - **Sports Analytics (2009 - 2019):** Managed data analysis, video scouting, and statistical reporting for professional sports teams.
 - **Retail & E-Commerce (2003 - 2015):** Managed customer service, purchasing, and online sales, optimizing inventory management and digital commerce strategies.
 
-### 🎓 Education
+### Education
 
 ![SMU Logo](https://raw.githubusercontent.com/HBRose-BIDA/Python/main/SMU-Logo_StackedHorizontalofM_FC_03_REV-WHT300.png)
 - **M.S. in Business Intelligence & Data Analytics** – Saint Mary's University of Minnesota
