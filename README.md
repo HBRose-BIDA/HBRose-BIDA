@@ -22,7 +22,7 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 ### 📚 📜 Education
 
 ![SMU Logo](https://raw.githubusercontent.com/HBRose-BIDA/Python/main/SMU-Logo_StackedHorizontalofM_FC_03_REV-WHT300.png)
-- **M.S. in Business Intelligence & Data Analytics** – Saint Mary's University of Minnesota
+- **M.S. in Business Intelligence & Data Analytics** – Saint Mary's University of Minnesota ** GPA 3.75)
 
 <details>
 <summary>🎓 List of classes I completed for my master's (Click to expand)</summary>
