@@ -26,7 +26,8 @@ My toolkit combines programming, analytics, BI, and project management for data-
 - [Jump to List of Classes](#list-of-classes-i-completed-for-my-masters-in-business-intelligence-and-data-analytics)
 - **B.A. in Marketing & Management** – Saint Mary's University of Minnesota
 
-### 📊 Projects Cross-Reference
+<detsils>
+<summary>### 📊 Projects Cross-Reference</summary>
 
 - [Proficiency in SQL](https://hbrose-bida.github.io/Python/SQL.html)
 - [Programming Skills](https://hbrose-bida.github.io/Python/Programming.html)
@@ -40,7 +41,7 @@ My toolkit combines programming, analytics, BI, and project management for data-
 - [ETL (Extract, Transform, Load) Processes](https://hbrose-bida.github.io/Python/ETL.html)
 - [SAS](https://hbrose-bida.github.io/Python/SAS.html)
 
-
+</details>
 
 
 ## Tableau Public Dashboard
