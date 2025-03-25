@@ -15,6 +15,7 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 ### 🚀 Work Experience Summary
 
 - **Banking & Financial Services (2015 - Present):** Progressed from application support to leadership roles, leading process automation, API onboarding, SQL-based reporting, and cloud migration. Worked in Freight Payments, Data Exchange, and Corporate Credit Cards (U.S. and European).
+  
 - **Assistant Varsity Hockey Coach (2020 - 2023) ** Defense, practice plans, and scouting. 
 - **Sports Analytics (2009 - 2019):** Managed data analysis, video scouting, and statistical reporting for professional sports teams.
 - **Retail & E-Commerce (2003 - 2015):** Managed customer service, purchasing, and online sales, optimizing inventory management and digital commerce strategies.
