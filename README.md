@@ -3,7 +3,9 @@
 
 ## 💡 Welcome to My GitHub Profile!
 There is still clean up work to do. The HTML is ugly. Tableau and Power BI links will be created. 
+
 ---
+
 ### 👋 About Me
 
 I am a **Business Intelligence & Data Analytics Professional** with a strong background in **Python, SQL, Power BI, Tableau, and Data Visualization**. With experience spanning **application development, process automation, data analytics, and project management**, I bring a data-driven approach to solving business challenges.
