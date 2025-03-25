@@ -46,7 +46,7 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 
 ---
 
-### 🔧 Tools
+### 🔧 **Tools**
 
 My toolkit combines programming, analytics, BI, and project management for data-driven decision-making, automation, and visualization, with a focus on security and forecasting for strategic planning.
 
