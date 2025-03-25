@@ -31,11 +31,9 @@ My toolkit combines programming, analytics, BI, and project management for data-
 
 ![SMU Logo](https://raw.githubusercontent.com/HBRose-BIDA/Python/main/SMU-Logo_StackedHorizontalofM_FC_03_REV-WHT300.png)
 - **M.S. in Business Intelligence & Data Analytics** – Saint Mary's University of Minnesota
-- [Jump to List of Classes](#list-of-classes-i-completed-for-my-masters-in-business-intelligence-and-data-analytics)
-  ---
 
 <details>
-<summary>## List of classes I completed for my master's in Business Intelligence and Data Analytics</summary>
+<summary>## List of classes I completed for my master's in Business Intelligence and Data Analytics (cick to expand)</summary>
 
 - [BIA 620 Business Analytics](https://hbrose-bida.github.io/Classes/BIA_620.html)
 - [BIA 630 Modeling](https://hbrose-bida.github.io/Classes/BIA_630.html)
@@ -52,7 +50,6 @@ My toolkit combines programming, analytics, BI, and project management for data-
 
 </details>
 
----
 - **B.A. in Marketing & Management** – Saint Mary's University of Minnesota
 
 ---
