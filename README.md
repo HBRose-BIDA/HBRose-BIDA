@@ -33,7 +33,7 @@ My toolkit combines programming, analytics, BI, and project management for data-
 - **M.S. in Business Intelligence & Data Analytics** – Saint Mary's University of Minnesota
 
 <details>
-<summary>## List of classes I completed for my master's in Business Intelligence and Data Analytics (Click to expand)</summary>
+<summary>🎓 List of classes I completed for my master's in Business Intelligence and Data Analytics (Click to expand)</summary>
 
 - [BIA 620 Business Analytics](https://hbrose-bida.github.io/Classes/BIA_620.html)
 - [BIA 630 Modeling](https://hbrose-bida.github.io/Classes/BIA_630.html)
