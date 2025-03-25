@@ -26,7 +26,7 @@ My toolkit combines programming, analytics, BI, and project management for data-
 - [Jump to List of Classes](#list-of-classes-i-completed-for-my-masters-in-business-intelligence-and-data-analytics)
 - **B.A. in Marketing & Management** – Saint Mary's University of Minnesota
 
-<detsils>
+<details>
 <summary>### 📊 Projects Cross-Reference</summary>
 
 - [Proficiency in SQL](https://hbrose-bida.github.io/Python/SQL.html)
