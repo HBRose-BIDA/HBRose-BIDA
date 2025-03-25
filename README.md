@@ -13,9 +13,10 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 ---
 
 ### 🔧🔧 Tools 🔧🔧
-[List of tools I have used.](https://hbrose-bida.github.io/Python/Summary_of_Tools.html)
 
 My toolkit combines programming, analytics, BI, and project management for data-driven decision-making, automation, and visualization, with security and forecasting for strategic planning.
+
+[List of tools I have experiance with.](https://hbrose-bida.github.io/Python/Summary_of_Tools.html)
 
 ---
 
