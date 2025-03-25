@@ -10,16 +10,22 @@ There is still clean up work to do. The HTML is ugly. Tableau and Power BI links
 
 I am a **Business Intelligence & Data Analytics Professional** with a strong background in **Python, SQL, Power BI, Tableau, and Data Visualization**. With experience spanning **application development, process automation, data analytics, and project management**, I bring a data-driven approach to solving business challenges.
 
+---
+
 ### 🔧🔧 Tools 🔧🔧
 [List of tools I have used.](https://hbrose-bida.github.io/Python/Summary_of_Tools.html)
 
 My toolkit combines programming, analytics, BI, and project management for data-driven decision-making, automation, and visualization, with security and forecasting for strategic planning.
+
+---
 
 ### 🚀 Work Experience Summary
 
 - **Banking & Financial Services (2015 - Present):** Progressed from application support to leadership roles, leading process automation, API onboarding, SQL-based reporting, and cloud migration. Worked in Freight Payments, Data Exchange, and Corporate Credit Cards (U.S. and European).
 - **Sports Analytics (2009 - 2019):** Managed data analysis, video scouting, and statistical reporting for professional sports teams.
 - **Retail & E-Commerce (2003 - 2015):** Managed customer service, purchasing, and online sales, optimizing inventory management and digital commerce strategies.
+
+---
 
 ### 🎓  Education
 
@@ -45,9 +51,13 @@ My toolkit combines programming, analytics, BI, and project management for data-
 
 </details>
 
+---
+
 ## Tableau Public Dashboard
 
 [🔗 View My Tableau Visualization in Fullscreen](https://public.tableau.com/views/Concessions11-13/Story1?:embed=y&:showVizHome=no)
+
+---
 
 ## List of classes I completed for my master's in Business Intelligence and Data Analytics
 
@@ -64,7 +74,7 @@ My toolkit combines programming, analytics, BI, and project management for data-
 - [MBA-618-Business-Statistics](https://hbrose-bida.github.io/Classes/MBA_618.html)
 - [MBA-633-Ethics-in-Data-Analytics](https://hbrose-bida.github.io/Classes/MBA_633.html)
 
-
+---
 
 ### 📫 Let's Connect!
 
