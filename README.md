@@ -52,24 +52,15 @@ My toolkit combines programming, analytics, BI, and project management for data-
 - [BIA 620 Business Analytics](https://hbrose-bida.github.io/Classes/BIA_620.html)
 - [BIA 630 Modeling](https://hbrose-bida.github.io/Classes/BIA_630.html)
 - [BIA-640-Data-Visualization](https://hbrose-bida.github.io/Classes/BIA_640.html)
-
-[BIA-645-Communications-and-Content-Strategies](https://hbrose-bida.github.io/Classes/BIA_645.html)
-
-[BIA-650-Data-Mining-for-Decision-Making](https://hbrose-bida.github.io/Classes/BIA_650.html)
-
-[BIA-662-Programming-for-Data-Science-Python](https://hbrose-bida.github.io/Classes/BIA_662.html)
-
-[BBIA-665-Decision-Support-Systems](https://hbrose-bida.github.io/Classes/BIA_665.html)
-
-[BIA-690-Capstone-Project](https://hbrose-bida.github.io/Classes/BIA_690.html)
-
-[DIGA-605-Fundamentals-of-Geographic-Information-Systems](https://hbrose-bida.github.io/Classes/DIGA_605.html)
-
-[MBA-604-Managerial-Economics](https://hbrose-bida.github.io/Classes/MBA_604.html)
-
-[MBA-618-Business-Statistics](https://hbrose-bida.github.io/Classes/MBA_618.html)
-
-[MBA-633-Ethics-in-Data-Analytics](https://hbrose-bida.github.io/Classes/MBA_633.html)
+- [BIA-645-Communications-and-Content-Strategies](https://hbrose-bida.github.io/Classes/BIA_645.html)
+- [BIA-650-Data-Mining-for-Decision-Making](https://hbrose-bida.github.io/Classes/BIA_650.html)
+- [BIA-662-Programming-for-Data-Science-Python](https://hbrose-bida.github.io/Classes/BIA_662.html)
+- [BBIA-665-Decision-Support-Systems](https://hbrose-bida.github.io/Classes/BIA_665.html)
+- [BIA-690-Capstone-Project](https://hbrose-bida.github.io/Classes/BIA_690.html)
+- [DIGA-605-Fundamentals-of-Geographic-Information-Systems](https://hbrose-bida.github.io/Classes/DIGA_605.html)
+- [MBA-604-Managerial-Economics](https://hbrose-bida.github.io/Classes/MBA_604.html)
+- [MBA-618-Business-Statistics](https://hbrose-bida.github.io/Classes/MBA_618.html)
+- [MBA-633-Ethics-in-Data-Analytics](https://hbrose-bida.github.io/Classes/MBA_633.html)
 
 
 
