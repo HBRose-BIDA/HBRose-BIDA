@@ -61,7 +61,8 @@ My toolkit combines programming, analytics, BI, and project management for data-
 
 ---
 
-## List of classes I completed for my master's in Business Intelligence and Data Analytics
+<details>
+<summary>## List of classes I completed for my master's in Business Intelligence and Data Analytics</summary>
 
 - [BIA 620 Business Analytics](https://hbrose-bida.github.io/Classes/BIA_620.html)
 - [BIA 630 Modeling](https://hbrose-bida.github.io/Classes/BIA_630.html)
@@ -76,6 +77,7 @@ My toolkit combines programming, analytics, BI, and project management for data-
 - [MBA-618-Business-Statistics](https://hbrose-bida.github.io/Classes/MBA_618.html)
 - [MBA-633-Ethics-in-Data-Analytics](https://hbrose-bida.github.io/Classes/MBA_633.html)
 
+</details>
 ---
 
 ### 📫 Let's Connect!
