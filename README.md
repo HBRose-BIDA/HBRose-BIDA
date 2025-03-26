@@ -55,7 +55,7 @@ My toolkit combines programming, analytics, BI, and project management for data-
 ---
 
 <details>
-<summary><span style="color: blue;"><strong>📊 Projects Cross-Reference (Click to expand)</strong></span></summary>
+<summary><span style="color: blue;"><strong>📊 Projects Cross-Referenced by Skill Demonstrated. (Click to expand)</strong></span></summary>
   
 - [Proficiency in SQL](https://hbrose-bida.github.io/Python/SQL.html)
 - [Programming Skills](https://hbrose-bida.github.io/Python/Programming.html)
