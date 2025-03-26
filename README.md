@@ -2,7 +2,7 @@
 [LinkedIn Profile](https://www.linkedin.com/in/hjalmaar-rose-ms-23a20851)
 
 ## 💡 Welcome to My GitHub Profile!
-Welcome to my GitHub profile! I am continuously working on improving the content and adding more valuable resources.
+I am continuously working on improving the content.
 
 ---
 
