@@ -8,14 +8,14 @@ Welcome to my GitHub profile! I am continuously working on improving the content
 
 ### 👋 About Me
 
-I am a **Business Intelligence & Data Analytics Professional** with a strong background in **Python, SQL, Power BI, Tableau, and Data Visualization**. With experience spanning **application development, data analytics, and business intelligence**, I have a proven track record in delivering data-driven solutions.
+I am a **Business Intelligence & Data Analytics Professional** with a strong background in **Python, SQL, Power BI, Tableau, and Data Visualization**. With experience spanning **application development, data analysis, and business intelligence**, I have a proven track record of leveraging data to drive business decisions.
 
 ### 🚀 Work Experience Summary
 
 - **Banking & Financial Services (2015 - Present):** Progressed from application support to leadership roles, leading process automation, API onboarding, SQL-based reporting, and cloud migration.
-- **Assistant Varsity Hockey Coach (2020 - 2023):** Defense, practice plans, and scouting.
+- **Assistant Varsity Hockey Coach (2020 - 2023):** Focused on defense, practice plans, and scouting.
 - **Sports Analytics (2009 - 2019):** Managed data analysis, video scouting, and statistical reporting for professional sports teams.
-- **Retail & E-Commerce (2003 - 2015):** Managed customer service, purchasing, and online sales, optimizing inventory management and digital commerce strategies.
+- **Retail & E-Commerce (2003 - 2015):** Managed customer service, purchasing, and online sales, and optimized inventory management and digital commerce strategies.
 
 ---
 
@@ -55,7 +55,7 @@ My toolkit combines programming, analytics, BI, and project management for data-
 ---
 
 <details>
-<summary><span style="color: blue;"><strong>📊 Projects Cross-Referenced by Skill Demonstrated. (Click to expand)</strong></span></summary>
+<summary><span style="color: blue;"><strong>### 📊 Projects Cross-Referenced by Skill Demonstrated (Click to expand)</strong></span></summary>
   
 - [Proficiency in SQL](https://hbrose-bida.github.io/Python/SQL.html)
 - [Programming Skills](https://hbrose-bida.github.io/Python/Programming.html)
