@@ -17,7 +17,7 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 - **Banking & Financial Services (2015 - Present):** Progressed from application support to leadership roles, leading process automation, API onboarding, SQL-based reporting, and cloud migration.
 - **Assistant Varsity Hockey Coach (2020 - 2023):** Focused on defense, practice plans, and scouting.
 - **Sports Analytics (2009 - 2019):** Managed data analysis, video scouting, and statistical reporting for professional sports teams.
-- **Retail & E-Commerce (2003 - 2015):** Managed customer service, purchasing, and online sales, and optimized inventory management and digital commerce strategies.
+- **Retail & E-Commerce (2003 - 2015):** Specializing in sporting goods. Managed customer service, purchasing, and online sales, and optimized inventory management and digital commerce strategies.
 
 ---
 
