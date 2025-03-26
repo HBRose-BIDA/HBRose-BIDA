@@ -46,7 +46,7 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 
 ---
 <details>
-<summary>### 📊 Projects Cross-Referenced by Skill Demonstrated (Click to expand)</summary>
+<summary>📊 Projects Cross-Referenced by Skill Demonstrated (Click to expand)</summary>
   
 - [Proficiency in SQL](https://hbrose-bida.github.io/Python/SQL.html)
 - [Programming Skills](https://hbrose-bida.github.io/Python/Programming.html)
