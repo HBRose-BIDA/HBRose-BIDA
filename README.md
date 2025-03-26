@@ -45,15 +45,6 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 - **B.A. in Marketing & Management** – Saint Mary's University of Minnesota
 
 ---
-
-### 🔧 **Tools**
-
-My toolkit combines programming, analytics, BI, and project management for data-driven decision-making, automation, and visualization, with a focus on security and forecasting for strategic planning.
-
-[List of tools I have experience with.](https://hbrose-bida.github.io/Python/Summary_of_Tools.html)
-
----
-
 <details>
 <summary><span style="color: blue;"><strong>### 📊 Projects Cross-Referenced by Skill Demonstrated (Click to expand)</strong></span></summary>
   
@@ -70,6 +61,14 @@ My toolkit combines programming, analytics, BI, and project management for data-
 - [SAS](https://hbrose-bida.github.io/Python/SAS.html)
 
 </details>
+
+---
+
+### 🔧 **Tools**
+
+My toolkit combines programming, analytics, BI, and project management for data-driven decision-making, automation, and visualization, with a focus on security and forecasting for strategic planning.
+
+[List of tools I have experience with.](https://hbrose-bida.github.io/Python/Summary_of_Tools.html)
 
 ---
 
