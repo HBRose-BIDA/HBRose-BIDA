@@ -8,7 +8,24 @@ I am continuously working on improving the content.
 
 ### 👋 About Me
 
-I am a **Business Intelligence & Data Analytics Professional** with a strong background in **Python, SQL, Power BI, Tableau, and Data Visualization**. With experience spanning **application development, data analysis, and business intelligence**, I have a proven track record of leveraging data to drive business decisions.
+I am a Business Intelligence & Data Analytics Professional with expertise in Python, SQL, Power BI, and Tableau. My career spans various industries including Banking & Financial Services, Sports Analytics, Retail & E-Commerce, and Coaching.
+
+Highlights:
+Banking & Financial Services: Led process automation, API onboarding, SQL-based reporting, and cloud migration.
+Sports Analytics: Managed data analysis and statistical reporting for professional sports teams.
+Retail & E-Commerce: Optimized inventory management and digital commerce strategies.
+Coaching: Developed defense strategies and practice plans as an Assistant Varsity Hockey Coach.
+Skills and Applications:
+AI Fluency: Gained through advanced coursework in AI and machine learning during my M.S. in Business Intelligence & Data Analytics, applying these skills in various data projects.
+Digital Transformation Leadership: Successfully led digital change initiatives in banking, integrating data analytics to streamline operations.
+Perpetual Learning Agility: Continuously updated my skills through advanced courses and certifications, staying ahead of technological advancements.
+Process Optimization: Streamlined processes in banking and retail, significantly improving productivity and operational efficiency.
+Innovative Thinking: Implemented creative solutions in sports analytics and retail to address complex challenges and drive growth.
+Public Speaking: Delivered presentations and conducted training sessions on data-driven decision-making and process improvements.
+Customer Engagement & Support: Built strong relationships with clients and stakeholders, providing exceptional support and ensuring successful project outcomes.
+I excel in data analysis and visualization, utilizing tools like Power BI and Tableau to create impactful insights. My proficiency in programming languages such as Python and SQL, paired with my experience in project management and cloud computing, enables me to drive data-driven decision-making and strategic planning.
+
+
 
 ---
 
