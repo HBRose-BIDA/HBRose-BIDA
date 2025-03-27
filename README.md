@@ -16,7 +16,7 @@ I am continuously working on improving the content.
    - [Business Technology Analyst 5 / Associate Vice President, Officer](#BTA5)
    - [Business Technology Analyst 3](#BTA3)
    - [Application Developer (Tier 2 Support)](#ADT2)
-5. [Education](#education)
+5. [Education](#EDU)
 6. [Projects Cross-Referenced by Skill Demonstrated](#projects-cross-referenced-by-skill-demonstrated-click-to-expand)
 7. [Tools](#-tools)
 8. [Tableau Public Dashboard](#tableau-public-dashboard)
@@ -101,7 +101,7 @@ I excel in data analysis and visualization, utilizing tools like Power BI and Ta
 - **M.S. in Business Intelligence & Data Analytics** – Saint Mary's University of Minnesota **(GPA 3.75)**
 
 <details>
-<summary>📚 List of classes I completed for my master's (Click to expand)</summary>
+<summary id="EDU">📚 List of classes I completed for my master's (Click to expand)</summary>
 
 - [BIA 620 Business Analytics](https://hbrose-bida.github.io/Classes/BIA_620.html)
 - [BIA 630 Modeling](https://hbrose-bida.github.io/Classes/BIA_630.html)
