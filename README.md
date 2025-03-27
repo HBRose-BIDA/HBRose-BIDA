@@ -13,7 +13,7 @@ I am continuously working on improving the content.
 2. [Highlights](#highlights)
 3. [Skills and Applications](#skills-and-applications)
 4. [Work Experience Summary](#-work-experience-summary)
-   - [Business Technology Analyst 5 / Associate Vice President, Officer](#business-technology-analyst-5--associate-vice-president-officer)
+   - [Business Technology Analyst 5 / Associate Vice President, Officer](#business-technology-analyst-5--associate-vice-president-officer-click-to-open)
    - [Business Technology Analyst 3](#business-technology-analyst-3)
    - [Application Developer (Tier 2 Support)](#application-developer-tier-2-support)
 5. [Education](#education)
