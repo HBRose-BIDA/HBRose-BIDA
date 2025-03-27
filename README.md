@@ -14,8 +14,8 @@ I am continuously working on improving the content.
 3. [Skills and Applications](#skills-and-applications)
 4. [Work Experience Summary](#-work-experience-summary)
    - [Business Technology Analyst 5 / Associate Vice President, Officer](#BTA5)
-   - [Business Technology Analyst 3](#business-technology-analyst-3)
-   - [Application Developer (Tier 2 Support)](#application-developer-tier-2-support)
+   - [Business Technology Analyst 3](#BTA3)
+   - [Application Developer (Tier 2 Support)](#ADT2)
 5. [Education](#education)
 6. [Projects Cross-Referenced by Skill Demonstrated](#projects-cross-referenced-by-skill-demonstrated-click-to-expand)
 7. [Tools](#-tools)
@@ -71,7 +71,7 @@ I excel in data analysis and visualization, utilizing tools like Power BI and Ta
 
 </details>
 <details>
-  <summary><strong>Business Technology Analyst 3 (Click to Open)</strong></summary>
+  <summary id="BTA3"><strong>Business Technology Analyst 3 (Click to Open)</strong></summary>
 
   ---
 
@@ -83,7 +83,7 @@ I excel in data analysis and visualization, utilizing tools like Power BI and Ta
   
 </details>
 <details>
-<summary><strong>Application Developer (Tier 2 Support) (Ckick to Open)</strong></summary>
+<summary id="ADT2"><strong>Application Developer (Tier 2 Support) (Ckick to Open)</strong></summary>
 
   ---
 
