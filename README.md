@@ -17,7 +17,7 @@ I am continuously working on improving the content.
    - [Business Technology Analyst 3](#BTA3)
    - [Application Developer (Tier 2 Support)](#ADT2)
 5. [Education](#EDU)
-6. [Projects Cross-Referenced by Skill Demonstrated](#projects-cross-referenced-by-skill-demonstrated-click-to-expand)
+6. [Projects Cross-Referenced by Skill Demonstrated](#PRJ)
 7. [Tools](#-tools)
 8. [Tableau Public Dashboard](#tableau-public-dashboard)
 9. [Let's Connect](#-lets-connect)
@@ -122,7 +122,7 @@ I excel in data analysis and visualization, utilizing tools like Power BI and Ta
 
 ---
 <details>
-<summary>📊 Projects Cross-Referenced by Skill Demonstrated (Click to expand)</summary>
+<summary id="PRJ">📊 Projects Cross-Referenced by Skill Demonstrated (Click to expand)</summary>
   
 - [Proficiency in SQL](https://hbrose-bida.github.io/Python/SQL.html)
 - [Programming Skills](https://hbrose-bida.github.io/Python/Programming.html)
