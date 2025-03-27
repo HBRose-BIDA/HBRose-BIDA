@@ -22,7 +22,7 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 **More detail on work experience**
 <details>
 
-  <summary><strong>Business Technology Analyst 5 / Associate Vice President, Officer</strong></summary>
+  <summary><strong>Business Technology Analyst 5 / Associate Vice President, Officer (Click to Open)</strong></summary>
 
   ---
 
@@ -34,7 +34,7 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 
 </details>
 <details>
-  <summary><strong>Business Technology Analyst 3</strong></summary>
+  <summary><strong>Business Technology Analyst 3 (Click to Open)</strong></summary>
 
   ---
 
@@ -46,7 +46,7 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
   
 </details>
 <details>
-<summary><strong>Application Developer (Tier 2 Support)</strong></summary>
+<summary><strong>Application Developer (Tier 2 Support) (Ckick to Open)</strong></summary>
 
   ---
 
