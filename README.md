@@ -4,23 +4,26 @@
 ## 💡 Welcome to My GitHub Profile!
 I am continuously working on improving the content.
 
+
+
 ---
 
 ## Table of Contents
-1. [About Me](#about-me)
+1. [About Me](#-about-me)
 2. [Highlights](#highlights)
 3. [Skills and Applications](#skills-and-applications)
-4. [Work Experience Summary](#work-experience-summary)
-   - [Business Technology Analyst 5 / Associate Vice President, Officer](#business-technology-analyst-5--associate-vice-president-officer)
-   - [Business Technology Analyst 3](#business-technology-analyst-3)
-   - [Application Developer (Tier 2 Support)](#application-developer-tier-2-support)
+4. [Work Experience Summary](#-work-experience-summary)
+   - [Business Technology Analyst 5 / Associate Vice President, Officer](#business-technology-analyst-5--associate-vice-president-officer-click-to-open)
+   - [Business Technology Analyst 3](#business-technology-analyst-3-click-to-open)
+   - [Application Developer (Tier 2 Support)](#application-developer-tier-2-support-click-to-open)
 5. [Education](#education)
-6. [Projects Cross-Referenced by Skill Demonstrated](#projects-cross-referenced-by-skill-demonstrated)
-7. [Tools](#tools)
+6. [Projects Cross-Referenced by Skill Demonstrated](#projects-cross-referenced-by-skill-demonstrated-click-to-expand)
+7. [Tools](#-tools)
 8. [Tableau Public Dashboard](#tableau-public-dashboard)
-9. [Let's Connect](#lets-connect)
+9. [Let's Connect](#-lets-connect)
 
 ---
+
 
 
 ### 👋 About Me
