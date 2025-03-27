@@ -19,7 +19,7 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 - **Sports Analytics (2009 - 2019):** Managed data analysis, video scouting, and statistical reporting for professional sports teams.
 - **Retail & E-Commerce (2003 - 2015):** Specializing in sporting goods. Managed customer service, purchasing, and online sales, and optimized inventory management and digital commerce strategies.
 
-<Summary>**More detail on work experience**</Summary>
+**More detail on work experience**
 <details>
 
 <summary>**Business Technology Analyst 5 / Associate Vice President, Officer**</summary>
