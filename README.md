@@ -30,14 +30,20 @@ My role requires strong collaboration and communication skills. I have partnered
 
 I have spearheaded numerous automation projects, leveraging technologies like DB2, Python, and PowerBI to streamline processes and save significant manhours. My technical expertise includes creating and executing batch jobs using IBM utilities, designing flowcharts in PowerPoint, and automating data extraction and formatting into Excel spreadsheets
 
+---
+
 </details>
 <details>
   <summary><strong>Business Technology Analyst 3</strong></summary>
+
+  ---
 
   I excel in customer and stakeholder engagement, organizing and leading meetings, acting as a liaison during project releases, and coaching customers on compliance and process efficiencies.
 
   I have expertise in project management, testing and quality assurance, technical development, and operational support. I have experience working with APIs, Excel, SQL, and EDI forms.
 
+  ---
+  
 </details>
 <details>
 <summary><strong>Application Developer (Tier 2 Support)</strong></summary>
@@ -46,17 +52,6 @@ I demonstrated strong problem-solving abilities by resolving complex customer is
 
 I utilized SQL and PL/SQL to monitor and troubleshoot transaction scripts, manage daily batch processes with Autosys, and handle incidents and changes using ServiceNow within the ITIL framework. I also provided 24/7 on-call support and collaborated with offshore teams to address critical system issues.
 
-</details>
-<details>
-  <summary>Click to expand</summary>
-  
-  ---
-  
-  Some content above the line.
-
-  ---
-
-  Some content below the line.
 </details>
 
 ---
