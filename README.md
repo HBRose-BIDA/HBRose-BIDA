@@ -47,7 +47,9 @@ I utilized SQL and PL/SQL to monitor and troubleshoot transaction scripts, manag
 </details>
 <details>
   <summary>Click to expand</summary>
-
+  
+  ---
+  
   Some content above the line.
 
   ---
