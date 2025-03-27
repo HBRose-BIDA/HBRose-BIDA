@@ -24,12 +24,10 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 
 <summary>**Business Technology Analyst 5 / Associate Vice President, Officer**</summary>
 
-My role has also required strong collaboration and communication skills. I have partnered closely with credit card processing companies to resolve operational issues and introduce new system features, enhancing service offerings. Additionally, I have led training sessions to upskill teammates in running automation scripts and fostered cross-functional collaboration to resolve issues and ensure seamless coordination with stakeholders
+My role require strong collaboration and communication skills. I have partnered closely with credit card processing companies to resolve operational issues and introduce new system features, enhancing service offerings. Additionally, I have led training sessions to upskill teammates in running automation scripts and fostered cross-functional collaboration to resolve issues and ensure seamless coordination with stakeholders
 
 I have spearheaded numerous automation projects, leveraging technologies like DB2, Python, and PowerBI to streamline processes and save significant manhours. My technical expertise includes creating and executing batch jobs using IBM utilities, designing flowcharts in PowerPoint, and automating data extraction and formatting into Excel spreadsheets
 
-<summary>Detail</summary>
-<details>therere</details>
 </details>
 
 
