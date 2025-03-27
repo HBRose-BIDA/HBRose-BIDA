@@ -30,11 +30,11 @@ I have spearheaded numerous automation projects, leveraging technologies like DB
 
 </details>
 <details>
-<summary><strong>Business Technology Analyst 3</strong></summary>
----
-I excel in customer and stakeholder engagement, organizing and leading meetings, acting as a liaison during project releases, and coaching customers on compliance and process efficiencies.
----
-I have expertise in project management, testing and quality assurance, technical development, and operational support. I have experience working with APIs, Excel, SQL, and EDI forms.
+  <summary><strong>Business Technology Analyst 3</strong></summary>
+  ---
+  I excel in customer and stakeholder engagement, organizing and leading meetings, acting as a liaison during project releases, and coaching customers on compliance and process efficiencies.
+
+  I have expertise in project management, testing and quality assurance, technical development, and operational support. I have experience working with APIs, Excel, SQL, and EDI forms.
 
 </details>
 <details>
