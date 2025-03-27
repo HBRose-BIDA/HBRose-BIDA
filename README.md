@@ -37,6 +37,14 @@ I excel in customer and stakeholder engagement, organizing and leading meetings,
 I have expertise in project management, testing and quality assurance, technical development, and operational support. I have experience working with APIs, Excel, SQL, and EDI forms.
 
 </details>
+<details>
+<summary><strong>Application Developer (Tier 2 Support)</strong></summary>
+
+I demonstrated strong problem-solving abilities by resolving complex customer issues that escalated from Level 1 support. My communication skills were evident in maintaining strong B2B relationships and promoting cross-departmental collaboration by assisting programmers and developers with script deployment.
+
+I utilized SQL and PL/SQL to monitor and troubleshoot transaction scripts, manage daily batch processes with Autosys, and handle incidents and changes using ServiceNow within the ITIL framework. I also provided 24/7 on-call support and collaborated with offshore teams to address critical system issues.
+
+</details>
 
 ---
 
