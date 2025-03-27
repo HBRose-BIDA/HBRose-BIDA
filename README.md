@@ -13,7 +13,7 @@ I am continuously working on improving the content.
 2. [Highlights](#highlights)
 3. [Skills and Applications](#skills-and-applications)
 4. [Work Experience Summary](#-work-experience-summary)
-   - [Business Technology Analyst 5 / Associate Vice President, Officer](#business-technology-analyst-5--associate-vice-president-officer-click-to-open)
+   - [Business Technology Analyst 5 / Associate Vice President, Officer](#BTA5)
    - [Business Technology Analyst 3](#business-technology-analyst-3)
    - [Application Developer (Tier 2 Support)](#application-developer-tier-2-support)
 5. [Education](#education)
@@ -59,7 +59,7 @@ I excel in data analysis and visualization, utilizing tools like Power BI and Ta
 **More detail on bank work experience**
 <details>
 
-  <summary><strong>Business Technology Analyst 5 / Associate Vice President, Officer (Click to Open)</strong></summary>
+  <summary id="BTA5"><strong>Business Technology Analyst 5 / Associate Vice President, Officer (Click to Open)</strong></summary>
 
   ---
 
