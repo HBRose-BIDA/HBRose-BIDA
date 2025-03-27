@@ -22,7 +22,7 @@ I am a **Business Intelligence & Data Analytics Professional** with a strong bac
 **More detail on work experience**
 <details>
 
- <summary style="font-weight: bold;">Business Technology Analyst 5 / Associate Vice President, Officer</summary>
+<summary><strong>Business Technology Analyst 5 / Associate Vice President, Officer</strong></summary>
 
 My role requires strong collaboration and communication skills. I have partnered closely with credit card processing companies to resolve operational issues and introduce new system features, enhancing service offerings. Additionally, I have led training sessions to upskill teammates in running automation scripts and fostered cross-functional collaboration to resolve issues and ensure seamless coordination with stakeholders
 
