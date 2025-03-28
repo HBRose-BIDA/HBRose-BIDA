@@ -5,7 +5,7 @@
 I am continuously working on improving the content.
 
 
-
+<a name="top"></a>
 ---
 
 ## Table of Contents
@@ -47,7 +47,7 @@ I am a Business Intelligence & Data Analytics Professional with expertise in Pyt
 
 I excel in data analysis and visualization, utilizing tools like Power BI and Tableau to create impactful insights. My proficiency in programming languages such as Python and SQL, paired with my experience in project management and cloud computing, enables me to drive data-driven decision-making and strategic planning.
 
-[Back to top](#)
+[Back to top](#top)
 ---
 
 ### 🚀 Work Experience Summary
@@ -94,7 +94,7 @@ I excel in data analysis and visualization, utilizing tools like Power BI and Ta
 
   </details>
 
-[Back to top](#)
+[Back to top](#top)
 ---
 
 ### 📜 Education
