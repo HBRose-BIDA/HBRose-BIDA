@@ -140,6 +140,8 @@ I excel in data analysis and visualization, utilizing tools like Power BI and Ta
 
 </details>
 
+[Back to top](#top)
+
 ---
 
 ### 🔧 **Tools**
@@ -148,6 +150,8 @@ My toolkit combines programming, analytics, BI, and project management for data-
 
 [List of tools I have experience with.](https://hbrose-bida.github.io/Python/Summary_of_Tools.html)
 
+[Back to top](#top)
+
 ---
 
 ## Tableau Public Dashboard
@@ -155,6 +159,7 @@ My toolkit combines programming, analytics, BI, and project management for data-
 [🔗 View My Tableau Visualization in Fullscreen](https://public.tableau.com/views/Concessions11-13/Story1?:embed=y&:showVizHome=no)
 
 ---
+[Back to top](#top)
 
 ### 📫 Let's Connect!
 
