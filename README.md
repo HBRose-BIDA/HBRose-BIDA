@@ -2,6 +2,9 @@
 [LinkedIn Profile](https://www.linkedin.com/in/hjalmaar-rose-ms-23a20851)
 
 ## 💡 Welcome to My GitHub Profile!
+
+Here, you will find a collection of my professional and academic achievements, highlighting my skills and experiences in data analytics, programming, and project management.
+
 I am continuously working on improving the content.
 
 
