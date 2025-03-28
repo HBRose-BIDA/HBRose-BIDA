@@ -94,6 +94,7 @@ I excel in data analysis and visualization, utilizing tools like Power BI and Ta
 
   </details>
 
+[Back to top](#)
 ---
 
 ### 📜 Education
