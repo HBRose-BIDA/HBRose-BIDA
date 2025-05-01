@@ -19,7 +19,7 @@ I am continuously working on improving the content.
    - [Business Technology Analyst 5 / Associate Vice President, Officer](#BTA5)
    - [Business Technology Analyst 3](#BTA3)
    - [Application Developer (Tier 2 Support)](#ADT2)
-5. [Education](#EDU)
+5. [Education](#-education)
 6. [Projects Cross-Referenced by Skill Demonstrated](#PRJ)
 7. [Tools](#-tools)
 8. [Tableau Public Dashboard](#tableau-public-dashboard)
