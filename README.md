@@ -127,6 +127,7 @@ I excel in data analysis and visualization, utilizing tools like Power BI and Ta
 
 ---
 <details>
+   
 <summary id="PRJ">📊 Projects Cross-Referenced by Skill Demonstrated (Click to expand)</summary>
   
 - [Proficiency in SQL](https://hbrose-bida.github.io/Python/SQL.html)
