@@ -87,7 +87,7 @@ I excel in data analysis and visualization, utilizing tools like Power BI and Ta
   
 </details>
 <details>
-<summary id="ADT2"><strong>Application Developer (Tier 2 Support) (Ckick to Open)</strong></summary>
+<summary id="ADT2"><strong>Application Developer (Tier 2 Support) (Click to Open)</strong></summary>
 
   ---
 
