@@ -7,6 +7,11 @@ Here, you will find a collection of my professional and academic achievements, h
 
 I am continuously working on improving the content.
 
+I have developed a RAG application to allow people to ask questions about my experience and education. 
+
+https://hbr-bida.duckdns.org
+
+I will be documenting the code and the process.
 
 <a name="top"></a>
 ---
