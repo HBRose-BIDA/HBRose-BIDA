@@ -12,7 +12,12 @@ I have developed a RAG application to allow people to ask questions about my exp
 https://hbr-bida.duckdns.org
 
 The code and the process.
+
 https://github.com/HBRose-BIDA/rag-app-github
+
+I have been developing a process for parsing Job Descriptions. Here is the process.
+
+https://hbrose-bida.github.io/Classes/AI_Job_Description.html
 
 <a name="top"></a>
 ---
