@@ -11,7 +11,7 @@ I have developed a RAG application to allow people to ask questions about my exp
 
 https://hbr-bida.duckdns.org
 
-I will be documenting the code and the process.
+The code and the process.
 https://github.com/HBRose-BIDA/rag-app-github
 
 <a name="top"></a>
