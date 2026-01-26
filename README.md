@@ -15,9 +15,6 @@ The code and the process.
 
 https://github.com/HBRose-BIDA/rag-app-github
 
-I have been developing a process for parsing Job Descriptions. Here is the process.
-
-https://hbrose-bida.github.io/Classes/AI_Job_Description.html
 
 <a name="top"></a>
 ---
