@@ -3,6 +3,8 @@
 
 ## 💡 Welcome to My GitHub Profile!
 
+🚧 🏗️ **UNDER CONSTRUCTION - Profile Updates in Progress** 🏗️ 🚧
+
 Here, you will find a collection of my professional and academic achievements, highlighting my skills and experiences in data analytics, programming, and project management.
 
 I am back to work on my GitHub. When I created this Profile, it had a basic goal. Learn how GitHub worked. I am not a developer, so it was something to do. I learned a little about Repos and Git. I learned about Markdown language and HTML. What I demonstrated was that I could write a program that extracted all my class papers, code, and other work products. I wrote a program that put them out in Google Docs. I wrote a program that extreact3ed them from Google docs and encapsulated them in HTML links. I built and loaded HTML into GitHub. So far so good. 
