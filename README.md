@@ -15,6 +15,10 @@ My first change is to create a website that orgnizes my code better.
 
 https://hbrose-bida.github.io/Code/
 
+I have staeted working on getting my papers in order. This is very much a work in progress.
+
+https://hb​rose-bida.github.io/Code/BIDA_Portfolio.html
+
 
 I have developed a RAG application to allow people to ask questions about my experience and education. 
 
