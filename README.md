@@ -11,7 +11,7 @@ I am back to work on my GitHub. When I created this Profile, it had a basic goal
 
 What I am doing now is reorganizing my documents and code. Google docs doesn't work as it used to do so I will address that. But my first item will be to reorganize and move my code over to GitHub and do a better job of naming my 600 files and organizing them. 
 
-My first change is to create a website that orgnizes my code better.
+My first change is to create a website that orgnizes my code better. Complete.
 
 https://hbrose-bida.github.io/Code/
 
