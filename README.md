@@ -23,6 +23,7 @@ I have started working on getting my papers in order. The plumbing works. I have
 
 https://hbrose-bida.github.io/Code/salary-vs-pnts.html
 
+https://hbrose-bida.github.io/Code/project_Trade/project-trade.html
 
 I have developed a RAG application to allow people to ask questions about my experience and education. 
 
