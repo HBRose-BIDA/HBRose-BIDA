@@ -25,6 +25,8 @@ https://hbrose-bida.github.io/Code/salary-vs-pnts.html
 
 https://hbrose-bida.github.io/Code/project_Trade/project-trade.html
 
+https://hbrose-bida.github.io/Code/project-trade.html
+
 I have developed a RAG application to allow people to ask questions about my experience and education. 
 
 https://hbr-bida.duckdns.org
