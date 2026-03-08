@@ -21,7 +21,7 @@ https://hbrose-bida.github.io/Code/
 
 I have started working on getting my papers in order. The plumbing works. I have not moved all the papers to Azure Blob yet.
 
-https://hb​rose-bida.github.io/Code/BIDA_Portfolio.html
+https://hbrose-bida.github.io/Code/salary-vs-pnts.html
 
 
 I have developed a RAG application to allow people to ask questions about my experience and education. 
