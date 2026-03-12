@@ -46,6 +46,8 @@ https://github.com/HBRose-BIDA/rag-app-github
 
 [🔗 View My Tableau Visualization in Fullscreen](https://public.tableau.com/views/Concessions11-13/Story1?:embed=y&:showVizHome=no)
 
+https://public.tableau.com/views/Concessions11-13/Story1?:embed=y&:showVizHome=n 
+
 ---
 [Back to top](#top)
 
