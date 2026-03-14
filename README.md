@@ -19,6 +19,8 @@ My first change is to create a website that orgnizes my code better. Complete.
 
 https://hbrose-bida.github.io/Code/
 
+https://hbrose-bida.github.io/Code/project-wild-case-study.md
+
 I have started working on getting my papers in order. The plumbing works. I have not moved all the papers to Azure Blob yet.
 
 https://hbrose-bida.github.io/Code/salary-vs-pnts.html
