@@ -35,6 +35,10 @@ https://hbrose-bida.github.io/Code/code-techniques.html
 
 https://hbrose-bida.github.io/Code/sport-code-artifacts.html
 
+https://hbrose-bida.github.io/Code/tableau-artifacts.html
+
+
+
 I have developed a RAG application to allow people to ask questions about my experience and education. 
 
 This may not work. I am switchig off of OpenAI and Hetzner and going to Azure.
