@@ -41,6 +41,8 @@ https://hbrose-bida.github.io/Code/creative-thinking-artifacts.html
 
 https://hbrose-bida.github.io/Code/concessions.html
 
+https://hbrose-bida.github.io/Code/workspace-skill-hub.html
+
 
 
 I have developed a RAG application to allow people to ask questions about my experience and education. 
