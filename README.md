@@ -23,6 +23,8 @@ https://github.com/HBRose-BIDA/Code/blob/main/fetch_schedule.py
 
 https://github.com/HBRose-BIDA/Code/blob/main/CONFIG_DOCUMENTATION.md
 
+https://github.com/HBRose-BIDA/Code/blob/main/Data%20Dictionary.xlsx
+
 
 I have started working on getting my papers in order. The plumbing works. I have not moved all the papers to Azure Blob yet.
 
