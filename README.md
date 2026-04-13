@@ -21,9 +21,9 @@ https://hbrose-bida.github.io/Code/
 
 https://hbrose-bida.github.io/Code/CONFIG_DOCUMENTATION.md
 
-https://hbrose-bida.github.io/Code/fetch_schedule.py
-
 https://github.com/HBRose-BIDA/Code/blob/main/fetch_schedule.py
+
+https://github.com/HBRose-BIDA/Code/blob/main/CONFIG_DOCUMENTATION.md
 
 
 I have started working on getting my papers in order. The plumbing works. I have not moved all the papers to Azure Blob yet.
