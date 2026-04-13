@@ -19,6 +19,8 @@ My first change is to create a website that orgnizes my code better. Complete.
 
 https://hbrose-bida.github.io/Code/
 
+https://hbrose-bida.github.io/Code/CONFIG_DOCUMENTATION.md
+
 I have started working on getting my papers in order. The plumbing works. I have not moved all the papers to Azure Blob yet.
 
 https://hbrose-bida.github.io/Code/project-wild.html
@@ -54,9 +56,6 @@ https://hbr-bida.duckdns.org
 The code and the process.
 
 https://github.com/HBRose-BIDA/rag-app-github
-
-https://github.com/HBRose-BIDA/CONFIG_DOCUMENTATION.md
-
 
 ## Tableau Public Dashboard
 
