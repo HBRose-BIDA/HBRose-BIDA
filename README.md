@@ -19,8 +19,6 @@ My first change is to create a website that orgnizes my code better. Complete.
 
 https://hbrose-bida.github.io/Code/
 
-https://hbrose-bida.github.io/Code/CONFIG_DOCUMENTATION.md
-
 https://github.com/HBRose-BIDA/Code/blob/main/fetch_schedule.py
 
 https://github.com/HBRose-BIDA/Code/blob/main/CONFIG_DOCUMENTATION.md
