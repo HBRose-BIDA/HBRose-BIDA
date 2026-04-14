@@ -50,7 +50,7 @@ https://hbrose-bida.github.io/Code/concessions.html
 
 https://hbrose-bida.github.io/Code/workspace-skill-hub.html
 
-
+https://hbrose-bida.github.io/Code/project-nhl-predictor.html
 
 I have developed a RAG application to allow people to ask questions about my experience and education. 
 
