@@ -56,6 +56,8 @@ https://hbrose-bida.github.io/Code/project-nhl-predictor.html
 
 https://hbrowse-bida.github.io/ServiceNow/dashboard.html
 
+https://hbrowse-bida.github.io/ServiceNow/index.html
+
 I have developed a RAG application to allow people to ask questions about my experience and education. 
 
 This may not work. I am switchig off of OpenAI and Hetzner and going to Azure.
