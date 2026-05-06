@@ -11,7 +11,7 @@ I am back to work on my GitHub. When I created this Profile, it had a basic goal
 
 What I am doing now is reorganizing my documents and code. Google docs doesn't work as it used to do so I will address that. But my first item will be to reorganize and move my code over to GitHub and do a better job of naming my 600 files and organizing them. 
 
-Status update: I have moved the code to a repo and feed the website from the repo. I have moved the documents off of Google storage and onto Azure BLOB. I feed the website from the BLOB. 
+Status update: I have moved the code to a repo and feed the website from the repo. I have moved the documents off of Google storage and onto Azure BLOB. I feed the website from the BLOB. I will not be moving my RAG to Azure the cost is prohibitive.  
 
 My next projects - move my RAG application to Azure and clean up my Github repos. With this reorg I don't have to have as many. 
 
